@@ -1,0 +1,11 @@
+#!/bin/bash
+<!DOCTYPE html>
+<html>
+<body>
+<h2>My javascript test</h2>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date():.
+Click me to display Date and time.</button>
+<p id="demo"></p>
+</body>
+</html>
